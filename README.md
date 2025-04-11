@@ -20,7 +20,7 @@ Follow these steps to set up the project on your local machine:
 
 Make sure you have the following installed:
 
-- [Node.js](https://nodejs.org/) (version X.X.X or higher)
+- [Node.js](https://nodejs.org/) 
 - [npm](https://www.npmjs.com/) (comes with Node.js)
 
 ### Clone the Repository
