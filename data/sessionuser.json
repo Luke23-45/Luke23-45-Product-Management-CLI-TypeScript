@@ -1,0 +1,41 @@
+{
+  "userId": 90,
+  "username": "newuser",
+  "email": "",
+  "isAdmin": false,
+  "firstName": "",
+  "lastName": "",
+  "createdAt": "2025-04-10T10:58:18.251Z",
+  "updatedAt": "2025-04-10T10:58:18.251Z",
+  "roles": [
+    "product:view",
+    "cart:view"
+  ],
+  "password": "650751762",
+  "permissions": [
+  "product:create",
+
+  "product:view",
+
+  "product:update",
+
+  "product:delete",
+
+  "cart:view",
+
+  "cart:add",
+
+  "cart:remove",
+
+  "cart:update",
+
+
+  "order:create",
+
+  "order:view",
+
+  "order:update",
+
+  "order:delete"
+  ]
+}

@@ -1,0 +1,23 @@
+[
+  {
+    "id": "241",
+    "name": "Cat 4",
+    "description": "",
+    "slug": "cat_4",
+    "created_at": "1744341374560"
+  },
+  {
+    "id": "242",
+    "name": "Cat 5",
+    "description": "",
+    "slug": "cat_5",
+    "created_at": "1744341379932"
+  },
+  {
+    "id": "243",
+    "name": "Electronics",
+    "description": "",
+    "slug": "electronics",
+    "created_at": "1744356751090"
+  }
+]

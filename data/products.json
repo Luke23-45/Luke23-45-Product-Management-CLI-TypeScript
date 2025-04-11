@@ -1,0 +1,209 @@
+[
+  {
+    "id": "122",
+    "userId": "90",
+    "name": " This is updated beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 0
+  },
+  {
+    "id": "123",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 504
+  },
+  {
+    "id": "124",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 494
+  },
+  {
+    "id": "125",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "126",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 494
+  },
+  {
+    "id": "127",
+    "userId": "91",
+    "name": " Beans1",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "128",
+    "userId": "91",
+    "name": " Beans1",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "129",
+    "userId": "91",
+    "name": " Beans1",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "130",
+    "userId": "91",
+    "name": " Beans1",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "131",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "132",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages plus",
+    "inventory": 500
+  },
+  {
+    "id": "133",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages plus",
+    "inventory": 500
+  },
+  {
+    "id": "134",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages p",
+    "inventory": 500
+  },
+  {
+    "id": "135",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages pa",
+    "inventory": 500
+  },
+  {
+    "id": "136",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages pat",
+    "inventory": 500
+  },
+  {
+    "id": "137",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Beverages",
+    "inventory": 500
+  },
+  {
+    "id": "138",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 1",
+    "inventory": 500
+  },
+  {
+    "id": "139",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 2",
+    "inventory": 500
+  },
+  {
+    "id": "140",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 3",
+    "inventory": 500
+  },
+  {
+    "id": "141",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 3",
+    "inventory": 500
+  },
+  {
+    "id": "142",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 4",
+    "inventory": 500
+  },
+  {
+    "id": "143",
+    "userId": "90",
+    "name": "Organic Coffee Beans",
+    "price": 15.99,
+    "description": "Premium, ethically sourced organic coffee beans.",
+    "category": "Cat 5",
+    "inventory": 500
+  },
+  {
+    "id": "144",
+    "userId": "90",
+    "name": "New Product",
+    "price": 25.99,
+    "description": "A brand new product",
+    "category": "Electronics",
+    "inventory": 100
+  }
+]

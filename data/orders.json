@@ -1,0 +1,35 @@
+[
+  {
+    "90": {
+      "userId": "90",
+      "items": [
+        {
+          "cartId": "236",
+          "productId": "123",
+          "quantity": 2,
+          "price": 15.99,
+          "total": 31.98,
+          "status": "Pending"
+        },
+        {
+          "cartId": "236",
+          "productId": "125",
+          "quantity": 2,
+          "price": 15.99,
+          "total": 31.98,
+          "status": "Pending"
+        },
+        {
+          "cartId": "236",
+          "productId": "126",
+          "quantity": 26,
+          "price": 15.99,
+          "total": 31.98,
+          "status": "Pending"
+        }
+      ],
+      "total": 95.94,
+      "timestamp": 1744295077341
+    }
+  }
+]

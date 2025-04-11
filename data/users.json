@@ -1,0 +1,21 @@
+[
+  {
+    "userId": "94",
+    "username": "newuser",
+    "email": "",
+    "isAdmin": false,
+    "firstName": "",
+    "lastName": "",
+    "createdAt": "2025-04-10T11:56:48.457Z",
+    "updatedAt": "2025-04-10T11:56:48.457Z",
+    "roles": [
+      "product:view",
+      "cart:view"
+    ],
+    "password": "650751762",
+    "permissions": [
+      "product:view",
+      "cart:view"
+    ]
+  }
+]
